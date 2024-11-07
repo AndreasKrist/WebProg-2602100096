@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{ asset('bootstrap5/css/bootstrap.min.css')}}">
